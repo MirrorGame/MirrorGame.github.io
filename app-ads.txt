@@ -96,3 +96,5 @@ xad.com,589,RESELLER,81cbf0a75a5e0e9a
 Inmobi.com,a5e661acdc384e91a79a58eb3418e99f,RESELLER,83e75a7ae333ca9d
 ##MyFacebook Extra##
 facebook.com, 658548508099638, DIRECT, c3e20eee3f780d68
+##MyFacebook Wood Puzzle##
+facebook.com, 658548508099638, DIRECT, c3e20eee3f780d68
